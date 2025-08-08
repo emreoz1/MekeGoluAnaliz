@@ -135,6 +135,7 @@ pip install rasterio geopandas pandas numpy matplotlib seaborn google-generative
 
 - **Uydu Görüntüleri:** [USGS EarthExplorer](https://earthexplorer.usgs.gov/)
 - **Ham Veri Seti:** [Kaggle - Konya Meke Maar Raw Images](https://www.kaggle.com/datasets/emreeoz/konya-meke-maar-raw-image)
+- **AOI Değerleri:** [GeoJson](https://geojson.io/)
 - **Bant Bilgileri:** [USGS Landsat Band Designations](https://www.usgs.gov/faqs/what-are-band-designations-landsat-satellites)
 - **Meke Gölü Hakkında:** [Doç. Dr. Fetullah Arık](https://www.jmo.org.tr/resimler/ekler/5a366e769b1cde8_ek.pdf)
 
